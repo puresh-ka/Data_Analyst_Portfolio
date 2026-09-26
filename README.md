@@ -2,10 +2,10 @@
 Hi, i'm Kateryna! ✨
 Welcome to my portfolio with my Data Analytics projects.
 
-| Project | Date | Tools | Description |
+| Project | Date | Tech Stack | Description |
 | --- | --- | --- | :--- |
-| 📌 Advertising budget optimizer | June 2020 | Python, PyCharm, pandas, matplotlib |  |
-| 📱 Social media engagement analysis | April 2026| SQL, Access||
+| 📌 Advertising budget optimizer | June 2020 | Python, PyCharm, pandas, NumPy, scikit-learn, matplotlib, tkinter, SciPy, statmodels |  |
+| 📱 Social media engagement analysis | April 2026| SQL, MS Access, Power BI||
 
 
 
